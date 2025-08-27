@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://r4sput1n.github.io/safe-content/sitemap.xml
